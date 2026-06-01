@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "name": "sol-chain",
+  "programs": {
+    "amm": {
+      "address": "AMM1111111111111111111111111111111111111111"
+    },
+    "lending": {
+      "address": "LEND1111111111111111111111111111111111111"
+    }
+  },
+  "registry": "https://api.apr.dev"
+}
