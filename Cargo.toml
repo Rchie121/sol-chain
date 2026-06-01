@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "programs/amm",
+    "programs/lending",
+]
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
